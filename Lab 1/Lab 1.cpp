@@ -59,8 +59,8 @@ int main()
     cout << "\nProgram ended!\n\n";
 
 
-cout << "Git makes collaboration easy!" << endl; // comment
-cout << "Taylor made a change";
-cout << "Henry made a change";
-cout << "11/22/26";
+cout << "Git makes collaboration easy!\n" << endl; // comment
+cout << "Taylor made a change\n";
+cout << "Henry made a change\n";
+cout << "11/22/26\n\n";
 }
