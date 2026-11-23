@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////
 ////////////    Calculator Program    /////////////////
-//  Taylor Lindsey, William Bailey, Henry Harris    //
-//////////////////// 4/19/26 ////////////////////////
+//          Taylor Lindsey,  Henry Harris           //
+//////////////////// 11/19/26 ////////////////////////
 //                                                 //
 ///////////  Input Number Operand Number   /////////
 //////////   Num1 (+ - / *) Num2           ////////
@@ -57,9 +57,10 @@ int main()
     }
 
     cout << "\nProgram ended!\n\n";
-}
 
-cout << "Git makes collaboration easy!" << endl; // comment
-cout << "Taylor made a change";
-cout << "Henry made a change";
-cout << "4/21/26TL";
+
+cout << "Git makes collaboration easy!\n" << endl; // comment
+cout << "Taylor made a change\n";
+cout << "Henry made a change\n";
+cout << "11/22/26\n\n";
+}
